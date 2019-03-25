@@ -9,7 +9,7 @@
     {
       "css": ["styles.css"],
       "js": ["jquery.js", "content.js"],
-      "matches": ["https://www.infowars.com/*"]
+      "matches": ["https://ggarnhart.com/*","https://www.infowars.com/*"]
     }
   ]
 }
